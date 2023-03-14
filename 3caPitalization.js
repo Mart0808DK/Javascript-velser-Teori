@@ -21,3 +21,4 @@ const lastLetterTo = lastLetter.toLowerCase();
 fullName = `${firstToLetterSmall}${middleLetterW}${lastLetterTo}`;
 
 console.log(fullName);
+    
