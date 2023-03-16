@@ -8,4 +8,5 @@ let returnvalue = `Hej ${firstName}`
 return returnvalue;
 }
 
-greeting();
+let result = greeting(firstName);
+
